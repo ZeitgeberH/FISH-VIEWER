@@ -24,8 +24,9 @@ The bottom has two tabs. First tab is about genes you recently queried.  Each ge
 4.	Image analyzing	
 Defining expressing pixels: “…the expressing pixels are colorized based on the luminosity of the ISH image (0.21 R + 0.72 G + 0.07 B) over some small local neighborhood”
 See discussions in Allen Brain Institute’s forum on this issue: https://community.brain-map.org/t/quantification-of-gene-expression-by-in-situ-hybridization-finding-and-using-the-raw-values/153/10
+
 And a paper about quantification of ISH expression:
-Comparing cortex-wide gene expression patterns between species in a common reference frame. Mackenzie Englund et. al. https://www.biorxiv.org/content/10.1101/2021.07.28.454203v1.full
+Mackenzie Englund et. al 2021. Comparing cortex-wide gene expression patterns between species in a common reference frame.  https://www.biorxiv.org/content/10.1101/2021.07.28.454203v1.full
 
 See this notebook showing mapping color mask back to intensity:
 https://github.com/ZeitgeberH/Expression-color-mask-to-expresssion-intensity
