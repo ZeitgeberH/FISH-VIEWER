@@ -12,10 +12,15 @@
 ## To make excutable
 Create conda enviorment by:
 ```
-conda create --name myenv --file conda_env_spec-file.txt
+conda create --name fishview --file fishview_env_spec-file.txt
 ```
 
-After activate your enviorment, using Pyinstaller:
+After activate your enviorment,
+```
+conda activate fishview
+```
+
+Using Pyinstaller to make package:
 ```
 pyinstaller --clean .\FISHViewer_folder.spec
 ```
