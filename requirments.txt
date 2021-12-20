@@ -1,0 +1,10 @@
+## requriment
+python==3.8
+Pyqtgraph
+PyQt5==5.12 --user
+pyqtwebengine==5.12
+PyOpenGL PyOpenGL_accelerate
+tqdm
+biothings_client
+ncbi-datasets-pylib
+h5py==2.10
