@@ -59,6 +59,12 @@ After activate your enviorment,
 conda activate fishview
 ```
 
+Clone this repo to your PC:
+```
+git clone https://github.com/ZeitgeberH/FISH-VIEWER
+cd FISH-VIEWER
+```
+
 Using Pyinstaller to make package:
 ```
 pyinstaller --clean .\FISHViewer_folder.spec
