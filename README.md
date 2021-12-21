@@ -1,7 +1,9 @@
 # FISH-VIEWER
 ## GUI to download, visualize FISH images from Allen Brain intitute
 This is a packaged (python) program for downloading, browsing and analyzing Allen brain institute’s FISH image data using their APIs (https://help.brain-map.org/display/api/Allen+Brain+Atlas+API) . It also provides information for queried genes as well as Allen brain atlas ontology as a reference.
-To start: unzip the file into a folder in your PC. Find the exe file name “FISH_VIEW.exe” and double click it. You can set up a short-cut to your windows desktop by right click that file and select “send/ Desktop (create shortcut)”. The first time you run the file, it may possibly trigger an alert from your anti-virus software. You can safely ignore it. Afterwards, It will bring up the main GUI.
+
+## Quick binary release
+Download the binary release to your PC, unzip the file into a folder anywhere. Find the exe file name “FISH_VIEW.exe” and double click it. You can set up a short-cut to your windows desktop by right click that file and select “send/ Desktop (create shortcut)”. The first time you run the file, it may possibly trigger an alert from your anti-virus software. You can safely ignore it. Afterwards, It will bring up the main GUI.
 
 ## Main functionality
 ### Downloading files
