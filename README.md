@@ -1,4 +1,5 @@
-# FISH-VIEWER
+# FISH-VIEWER [![DOI](https://zenodo.org/badge/440283354.svg)](https://zenodo.org/badge/latestdoi/440283354)
+
 ## GUI to download, visualize FISH images from Allen Brain intitute
 This is a packaged (python) program for downloading, browsing and analyzing Allen brain institute’s FISH image data using their APIs (https://help.brain-map.org/display/api/Allen+Brain+Atlas+API) . It also provides information for queried genes as well as Allen brain atlas ontology as a reference.
 
